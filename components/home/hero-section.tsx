@@ -9,7 +9,7 @@ export function HeroSection() {
           {/* Left Column - Content */}
           <div>
             <h1 className="font-serif text-4xl md:text-5xl lg:text-6xl text-foreground mb-6 text-balance leading-tight">
-              Find true power in your data with Ensome
+              Vision Built. Value Scaled. Success Sustained—Your AI Partner Beyond the Finish Line
             </h1>
             <p className="text-muted-foreground mb-4 max-w-lg">
               At Zyvora, innovation meets simplicity. We turn complex technology into powerful, accessible solutions that fuel growth across industries. From AI consulting to digital transformation, we blend intelligence with creativity to help businesses thrive.
