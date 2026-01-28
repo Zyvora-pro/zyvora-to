@@ -11,22 +11,8 @@ const dmSerif = { variable: '--font-dm-serif' }; // Placeholder for dmSerif
 export const metadata: Metadata = {
   title: 'Zyvora - Find True Power in Your Data',
   description: 'AI-powered analytics solutions built to bring clarity, speed, and impact to every decision.',
-  generator: 'v0.app',
   icons: {
-    icon: [
-      {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
-      },
-    ],
+    icon: '/icon.png',
     apple: '/apple-icon.png',
   },
 }
